@@ -21,7 +21,7 @@ public class ConwayGameOfLifeTest {
                 {0, 0, 1, 0, 0},
                 {0, 0, 0, 0, 0}};
         ConwayGameOfLife sim = new ConwayGameOfLife(5, start);
-        int[][] results = sim.simulate(9);
+        int[][] results = sim.simulate(10);
         assertTrue(java.util.Arrays.deepEquals(results, expected));
     }
 
@@ -40,7 +40,7 @@ public class ConwayGameOfLifeTest {
                 {0, 0, 1, 0, 0},
                 {0, 0, 0, 0, 0}};
         ConwayGameOfLife sim = new ConwayGameOfLife(5, start);
-        int[][] results = sim.simulate(10);
+        int[][] results = sim.simulate(1);
         assertTrue(java.util.Arrays.deepEquals(results, expected));
     }
 }

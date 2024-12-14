@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e282cee1-bfe9-42a3-9794-9633eb4654d1" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Game-Of-Life-Java.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/zipcodeconway/ConwayGameOfLife.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zipcodeconway/ConwayGameOfLife.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zipcodeconway/SimpleWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zipcodeconway/SimpleWindow.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,18 +113,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "ronaldjohnson0851"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ronaldjohnson0851&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "git@github.com:ronaldjohnson0851/ConwayGameOfLife.git",
-    "accountId": "fc3dca94-dac5-47ac-9c9e-794c76751fe0"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:ronaldjohnson0851/ConwayGameOfLife.git&quot;,
+    &quot;accountId&quot;: &quot;fc3dca94-dac5-47ac-9c9e-794c76751fe0&quot;
   }
-}]]></component>
+}</component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
@@ -158,9 +154,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectFrameBounds">
     <option name="x" value="82" />
     <option name="y" value="32" />
@@ -253,8 +249,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ConwayGameOfLife.executor": "Run",
+    "JUnit.ConwayGameOfLifeTest.executor": "Run",
     "JUnit.ConwayGameOfLifeTest.runTest1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true"
   }
@@ -272,18 +271,6 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/java" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="JUnit.ConwayGameOfLifeTest.runTest1">
     <configuration default="true" type="Applet">
@@ -443,9 +430,9 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.ConwayGameOfLifeTest.runTest1" />
+        <item itemvalue="JUnit.ConwayGameOfLifeTest.runTest2" />
         <item itemvalue="JUnit.ConwayGameOfLifeTest" />
         <item itemvalue="Application.ConwayGameOfLife" />
-        <item itemvalue="JUnit.ConwayGameOfLifeTest.runTest2" />
         <item itemvalue="JUnit.ConwayGameOfLifeTest.runTest" />
       </list>
     </recent_temporary>
@@ -533,8 +520,21 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/zipcodeconway/ConwayGameOfLifeTest.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/zipcodeconway/ConwayGameOfLife.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
